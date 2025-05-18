@@ -35,3 +35,11 @@ This is an AI web agent that will buy things online and automate the process. It
     <li><strong>Explanation</strong> - What was done</li>
 </ol>
 </div>
+
+## Exploration Strategy:
+
+<div style="background-color: #e9ecef; padding: 15px; border-radius: 6px; margin: 15px 0;">
+<p style="margin: 0;">
+The most important decision was choosing when to explore vs action. The agent implements a hybrid approach using both <strong>Depth First Search</strong> and <strong>Breadth First Search</strong> strategies to optimize the decision-making process.
+</p>
+</div>
