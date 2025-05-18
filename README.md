@@ -24,3 +24,14 @@ This is an AI web agent that will buy things online and automate the process. It
     <li><strong>Executors</strong> - Take action like Clicking, etc.</li>
 </ol>
 </div>
+
+## Key Steps in the Agent:
+
+<div style="background-color: #e9ecef; padding: 15px; border-radius: 6px; margin: 15px 0;">
+<ol style="list-style-type: decimal; margin-left: 20px;">
+    <li><strong>Plan</strong> - what to do</li>
+    <li><strong>Reasoning</strong> - Critical</li>
+    <li><strong>Action</strong> - Do it</li>
+    <li><strong>Explanation</strong> - What was done</li>
+</ol>
+</div>
